@@ -1,6 +1,9 @@
 
 
 ```markdown
+# Preview
+![Image Uploader Screenshot](/p2.jpeg)
+
 # Flask Authentication System
 
 This is a simple authentication system built using Flask. It allows users to register, log in, and view a personalized dashboard displaying their username.
